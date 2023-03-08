@@ -1,0 +1,8 @@
+In your repository, browse to the file you want to edit.
+In the upper right corner of the file view, click  to open the file editor.
+On the Edit file tab, make any changes you need to the file.
+Above the new content, click Preview changes.
+At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
+Below the commit message fields, decide whether to add your commit to the current branch or to a new branch.
+If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. 
+Click Propose file change.
